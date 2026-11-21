@@ -1,0 +1,6 @@
+{
+  "name": "VV Store — Vikas Vasava Tech & Accessories",
+  "description": "Curated tech & smart accessories storefront by Vikas Vasava featuring direct Amazon & Flipkart product links, admin catalog management, and WhatsApp Business support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
